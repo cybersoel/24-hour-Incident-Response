@@ -1,13 +1,13 @@
 <h1>24-hour Incident Response</h1>
 
+
+
+<h2>Description</h2>
+
  - Completed the intensive 24-hour Blue Team 1 certification exam
  - Achieved a perfect 100% score on the first attempt (passing score: 70%)
  - Earned the prestigious Gold Medal for scoring above 90% on the first try
  - Investigated a simulated compromised network using various security tools
-
-<h2>Description</h2>
-
-
 
 <br />
 
